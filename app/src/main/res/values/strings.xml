@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppRecetas</string>
+    <string name="restaurante_upaep">Restaurante UPAEP</string>
+    <string name="jugo_verde_18">Jugo verde $18</string>
+    <string name="agua_mineral_15">Agua mineral $15</string>
+    <string name="malteada_chocolate_25">Malteada chocolate $25</string>
+    <string name="jugo_de_naranja_20">Jugo de naranja $20</string>
+    <string name="total_a_pagar">Total a pagar:</string>
+    <string name="hotcakes_50">HotCakes $50</string>
+    <string name="bebidas">BEBIDAS</string>
+    <string name="huevos_al_gusto_60">Huevos al gusto $60</string>
+    <string name="quesadillas_45">Quesadillas $45</string>
+    <string name="calcular_total">Calcular Total</string>
+    <string name="todo">TODO</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="para_llevar_en_restaurante">Para llevar (en restaurante)</string>
+    <string name="para_entrega_a_domicilio">Para entrega a domicilio $15</string>
+    <string name="seleccione_los_datos_de_su_pedido">Seleccione los datos de su pedido:</string>
+    <string name="desayunos">DESAYUNOS</string>
+    <string name="chilaquiles_65">Chilaquiles $65</string>
+    <string name="toquio">TODO</string>
+    <string name="textview">TextView</string>
+</resources>
